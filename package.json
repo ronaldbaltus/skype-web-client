@@ -1,0 +1,7 @@
+{
+  "name": "Skype web",
+  "main": "http://web.skype.com/",
+   "window": {
+            "icon": "skype-icon.png"
+   }
+}
